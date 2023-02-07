@@ -6,4 +6,4 @@ Hier liegt mein bash script.
 - **Autor**: Antonio Rogmann
 - Institut: IDOS
 
-Das ist ein ganz vorzügliches Repositorium hier - well done :joy: 
+Das ist ein ganz vorzügliches Repositorium hier - well done 🦋
